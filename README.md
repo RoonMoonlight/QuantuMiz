@@ -31,11 +31,10 @@ See [here](https://github.com/MysticMoonlight/EnhancedMod/releases).
 ## List of Mod features
 Everything featured on this modpack are configurable via Mod Menu.
 * Blur
-* Cull Leaves
-* Better Grass
 * Fabrishot
+* Huge Optimizations
+* Partial OptiFine Compatibility
 * Shaders
-* OptiFine resource pack features
 * Zoom
 
 ## Fair-play Warning
@@ -53,6 +52,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Sodium](https://modrinth.com/mod/sodium)
 
 ### Utility
+* [Fabrishot](https://modrinth.com/mod/fabrishot)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 * [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
@@ -70,10 +70,10 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 
 ### Library/Dependency Mods
 * [Cloth Config API](https://modrinth.com/mod/cloth-config)
+* [Custom Entity Models (CEM)](https://modrinth.com/mod/cem)
 * [Fabric API](https://modrinth.com/mod/fabric-api)
 * [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
-
 
 ## Incompatible Mods
 These mods are incompatible at the moment.
@@ -81,15 +81,11 @@ These mods are incompatible at the moment.
 ### Optimization
 * [Enhanced Block Entities](https://modrinth.com/mod/ebe)
 
-### Utility
-* [Fabrishot](https://modrinth.com/mod/fabrishot)
-
 ### Compatibility Mod
 * [Animatica](https://modrinth.com/mod/animatica)
 * [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 * [Colormatic](https://modrinth.com/mod/colormatic)
 * [Continuity](https://modrinth.com/mod/continuity)
-* [Custom Entity Models (CEM)](https://modrinth.com/mod/cem)
 * [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass)
 * [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 * [OptiGUI](https://modrinth.com/mod/optigui)
