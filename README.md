@@ -4,9 +4,11 @@
 1.19.3 has been released. Yes we are aware of this changes, and will be fully updated to support 1.19.3 soon. Thank you all for your patience!
 
 # Steria - The community-made alternative modpack for Minecraft
-Steria(A.K.A Asteria) is the Lite Edition of Kosmos, aiming to optimize vanilla client while not adding pvp-exclusive features, like standalone version of OptiFine. It is sister project of main modpack Cosmos.
+Steria is the sister project of Kosmos, the community-made Minecraft: Java Edition modpack focused on optimization without PvP features and bloats.
 
 This modpack currently supports from 1.19 to 1.19.2! If the mod says it is not compatible due to minor update, feel free use old version in the meantime.
+
+Also check out our main project [Kosmos](https://github.com/MysticMoonlight/Kosmos), the PvP-focused modpack for Minecraft: Java Edition.
 
 **Steria for 1.19.3 is still on beta. Things might not be stable and may subject to change.**
 
