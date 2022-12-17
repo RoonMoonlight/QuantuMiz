@@ -43,6 +43,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 ## Mod List
 ### Optimization
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
+* [Hold That Chunk](https://modrinth.com/mod/hold-that-chunk)
 * [Indium](https://www.modrinth.com/mod/indium/)
 * [LazyDFU](https://modrinth.com/mod/lazydfu)
 * [Lithium](https://modrinth.com/mod/lithium)
@@ -52,7 +53,10 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Sodium](https://modrinth.com/mod/sodium)
 
 ### Utility
+* [Debugify](https://modrinth.com/mod/debugify)
 * [Fabrishot](https://modrinth.com/mod/fabrishot)
+* [Language Reload](https://modrinth.com/mod/language-reload)
+* [Mixin Conflict Helper](https://modrinth.com/mod/mixin-conflict-helper)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 * [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
@@ -61,8 +65,12 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 
 ### Compatibility Mod
 * [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)
+* [Custom Entity Models (CEM)](https://modrinth.com/mod/cem)
 * [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
+* [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes)
+* [FabricSkyboxes Interop](https://modrinth.com/mod/fabricskyboxes-interop)
 * [Iris Shaders](https://modrinth.com/mod/iris)
+* [OptiGUI](https://modrinth.com/mod/optigui)
 
 ### UI Mod
 * [Disable Custom Worlds Advice](https://modrinth.com/mod/dcwa)
@@ -70,7 +78,6 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 
 ### Library/Dependency Mods
 * [Cloth Config API](https://modrinth.com/mod/cloth-config)
-* [Custom Entity Models (CEM)](https://modrinth.com/mod/cem)
 * [Fabric API](https://modrinth.com/mod/fabric-api)
 * [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
@@ -88,7 +95,6 @@ These mods are incompatible at the moment.
 * [Continuity](https://modrinth.com/mod/continuity)
 * [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass)
 * [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
-* [OptiGUI](https://modrinth.com/mod/optigui)
 * [Puzzle](https://modrinth.com/mod/puzzle)
 
 ### UI Mod
