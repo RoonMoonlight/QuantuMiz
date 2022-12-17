@@ -17,7 +17,7 @@ Also check out our main project [Kosmos](https://github.com/MysticMoonlight/Kosm
 * [Fabric](https://fabricmc.net/)
 
 ## Changelog
-See [here](https://github.com/MysticMoonlight/EnhancedMod/releases).
+See [here](https://github.com/MysticMoonlight/Steria/releases).
 
 ## Features
 * Based on Fabric
