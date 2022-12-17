@@ -63,7 +63,6 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Sodium](https://modrinth.com/mod/sodium)
 
 ### Utility
-* [AxolotlClient](https://modrinth.com/mod/axolotlclient)
 * [Debugify](https://modrinth.com/mod/debugify)
 * [Mixin Conflict Helper](https://modrinth.com/mod/mixin-conflict-helper)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
@@ -77,16 +76,11 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Iris Shaders](https://modrinth.com/mod/iris)
 
 ### UI Mod
-* [BetterF3](https://modrinth.com/mod/betterf3)
 * [Blur](https://modrinth.com/mod/blur-fabric)
 * [Disable Custom Worlds Advice](https://modrinth.com/mod/dcwa)
 * [Disable Insecure Chat Toast](https://modrinth.com/mod/disableinsecurechattoast)
-* [Dark Loading Screen](https://modrinth.com/mod/dark-loading-screen)
-* [Main Menu Client](https://modrinth.com/mod/main-menu-credits)
 
 ### Library/Dependency Mods
-* [Architectury API](https://modrinth.com/mod/architectury-api)
-* [Cloth Config API](https://modrinth.com/mod/cloth-config)
 * [Quilt Standard Libraries](https://modrinth.com/mod/qsl)
 * [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
