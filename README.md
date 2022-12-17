@@ -26,7 +26,7 @@ See [here](https://github.com/MysticMoonlight/Steria/releases).
 * Most features from OptiFine are now compatible
 * Privacy focused
 * Community-made project
-* (NEW!) Now fully open-source with modrinth support!
+* Modrinth support!
 
 ## List of Mod features
 Everything featured on this modpack are configurable via Mod Menu.
@@ -59,6 +59,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Mixin Conflict Helper](https://modrinth.com/mod/mixin-conflict-helper)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+* [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
 * [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 * [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * [Zoomify](https://modrinth.com/mod/zoomify)
@@ -73,6 +74,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [OptiGUI](https://modrinth.com/mod/optigui)
 
 ### UI Mod
+* [Blur](https://modrinth.com/mod/blur-fabric)
 * [Disable Custom Worlds Advice](https://modrinth.com/mod/dcwa)
 * [Disable Insecure Chat Toast](https://modrinth.com/mod/disableinsecurechattoast)
 
@@ -96,9 +98,6 @@ These mods are incompatible at the moment.
 * [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass)
 * [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 * [Puzzle](https://modrinth.com/mod/puzzle)
-
-### UI Mod
-* [Blur](https://modrinth.com/mod/blur-fabric)
 
 ## Note
 * If the mod page displays old Minecraft version(Like 1.18.2, etc), check out the Files tab on CurseForge/Modrinth and find the latest fabric version.
