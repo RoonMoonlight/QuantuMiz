@@ -57,9 +57,9 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Fabrishot](https://modrinth.com/mod/fabrishot)
 * [Language Reload](https://modrinth.com/mod/language-reload)
 * [Mixin Conflict Helper](https://modrinth.com/mod/mixin-conflict-helper)
+* [MixinTrace](https://modrinth.com/mod/mixintrace)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
-* [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
 * [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 * [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * [Zoomify](https://modrinth.com/mod/zoomify)
@@ -77,6 +77,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Blur](https://modrinth.com/mod/blur-fabric)
 * [Disable Custom Worlds Advice](https://modrinth.com/mod/dcwa)
 * [Disable Insecure Chat Toast](https://modrinth.com/mod/disableinsecurechattoast)
+* [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)
 
 ### Library/Dependency Mods
 * [Cloth Config API](https://modrinth.com/mod/cloth-config)
