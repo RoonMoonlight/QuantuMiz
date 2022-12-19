@@ -65,9 +65,9 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 ### Utility
 * [Debugify](https://modrinth.com/mod/debugify)
 * [Mixin Conflict Helper](https://modrinth.com/mod/mixin-conflict-helper)
+* [MixinTrace](https://modrinth.com/mod/mixintrace)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
-* [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
 
 ### Compatibility Mod
 * [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)
