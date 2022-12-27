@@ -71,7 +71,9 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes)
 * [FabricSkyboxes Interop](https://modrinth.com/mod/fabricskyboxes-interop)
 * [Iris Shaders](https://modrinth.com/mod/iris)
+* [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 * [OptiGUI](https://modrinth.com/mod/optigui)
+* [Puzzle](https://modrinth.com/mod/puzzle)
 
 ### UI Mod
 * [Blur](https://modrinth.com/mod/blur-fabric)
@@ -97,8 +99,6 @@ These mods are incompatible at the moment.
 * [Colormatic](https://modrinth.com/mod/colormatic)
 * [Continuity](https://modrinth.com/mod/continuity)
 * [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass)
-* [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
-* [Puzzle](https://modrinth.com/mod/puzzle)
 
 ## Note
 * If the mod page displays old Minecraft version(Like 1.18.2, etc), check out the Files tab on CurseForge/Modrinth and find the latest fabric version.
