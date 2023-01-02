@@ -1,7 +1,7 @@
 ![Asteria Project Banner](https://user-images.githubusercontent.com/25527589/206985582-5f744913-0e7e-42b1-a6fa-bb1c23439620.png)
 
 # DISCLAIMER
-Issue tracker for Steria is now handled [here](https://github.com/MysticMoonlight/Kosmos/issues) with main Kosmos project. Also, the wiki page for Steria can be found[here](https://github.com/MysticMoonlight/Kosmos/wiki) too.
+Issue tracker for Steria is now handled [here](https://github.com/MysticMoonlight/Kosmos/issues) with main Kosmos project. Also, the wiki page for Steria can be found [here](https://github.com/MysticMoonlight/Kosmos/wiki) too.
 
 # Steria - The community-made alternative modpack for Minecraft
 Steria is the sister project of Kosmos, the community-made Minecraft: Java Edition modpack focused on optimization without PvP features and bloats.
