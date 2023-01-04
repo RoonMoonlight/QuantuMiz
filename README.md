@@ -67,6 +67,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 ### Compatibility Mod
 * [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)
 * [Custom Entity Models (CEM)](https://modrinth.com/mod/cem)
+* [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 * [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
 * [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes)
 * [FabricSkyboxes Interop](https://modrinth.com/mod/fabricskyboxes-interop)
@@ -82,9 +83,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)
 
 ### Library/Dependency Mods
-* [Cloth Config API](https://modrinth.com/mod/cloth-config)
-* [Fabric API](https://modrinth.com/mod/fabric-api)
-* [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+* [Quilt Standard Libraries](https://modrinth.com/mod/qsl)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 
 ## Incompatible Mods
@@ -93,12 +92,16 @@ These mods are incompatible at the moment.
 ### Optimization
 * [Enhanced Block Entities](https://modrinth.com/mod/ebe)
 
+### Utility
+* [Zoomify](https://modrinth.com/mod/zoomify)
+
 ### Compatibility Mod
-* [Animatica](https://modrinth.com/mod/animatica)
-* [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 * [Colormatic](https://modrinth.com/mod/colormatic)
 * [Continuity](https://modrinth.com/mod/continuity)
 * [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass)
+
+### Library/Dependency Mods
+* [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl)
 
 ### Note
 By using this modpack, you agree to the following:
