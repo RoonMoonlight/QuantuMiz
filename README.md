@@ -38,7 +38,7 @@ Everything featured on this modpack are configurable via Mod Menu.
 * Zoom
 
 ## Fair-play Warning
-Since it is Fabric based, you are free to add mods you wish to use. However some mods may have features which gives you unfair advantage, and you acknowledge that Mystic Moonlight is not responsible for any bans from community servers for using such mods.
+Since it is Quilt based, you are free to add mods you wish to use. However some mods may have features which gives you unfair advantage, and you acknowledge that Mystic Moonlight is not responsible for any bans from community servers for using such mods.
 
 ## Mod List
 ### Optimization
