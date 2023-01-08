@@ -14,13 +14,13 @@ Also check out our main project [Kosmos](https://github.com/MysticMoonlight/Kosm
 
 ## Dependencies
 * [Minecraft: Java Edition](https://minecraft.net)
-* [Fabric](https://fabricmc.net/)
+* [Quilt](https://Quiltmc.net/)
 
 ## Changelog
 See [here](https://github.com/MysticMoonlight/Steria/releases).
 
 ## Features
-* Based on Fabric
+* Based on Quilt
 * Focused on optimizing the vanilla client - No pvp feature additions are included
 * Huge optimization has been made, compared with Vanilla and Forge+OptiFine
 * Most features from OptiFine are now compatible
@@ -38,7 +38,7 @@ Everything featured on this modpack are configurable via Mod Menu.
 * Zoom
 
 ## Fair-play Warning
-Since it is Fabric based, you are free to add mods you wish to use. However some mods may have features which gives you unfair advantage, and you acknowledge that Mystic Moonlight is not responsible for any bans from community servers for using such mods.
+Since it is Quilt based, you are free to add mods you wish to use. However some mods may have features which gives you unfair advantage, and you acknowledge that Mystic Moonlight is not responsible for any bans from community servers for using such mods.
 
 ## Mod List
 ### Optimization
@@ -48,7 +48,7 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [LazyDFU](https://modrinth.com/mod/lazydfu)
 * [Lithium](https://modrinth.com/mod/lithium)
 * [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix)
-* [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)
+* [Smooth Boot](https://modrinth.com/mod/smoothboot-Quilt)
 * [Starlight](https://modrinth.com/mod/starlight)
 * [Sodium](https://modrinth.com/mod/sodium)
 
@@ -65,26 +65,25 @@ Since it is Fabric based, you are free to add mods you wish to use. However some
 * [Zoomify](https://modrinth.com/mod/zoomify)
 
 ### Compatibility Mod
+* [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 * [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)
 * [Custom Entity Models (CEM)](https://modrinth.com/mod/cem)
 * [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
-* [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes)
-* [FabricSkyboxes Interop](https://modrinth.com/mod/fabricskyboxes-interop)
+* [QuiltSkyboxes](https://modrinth.com/mod/Quiltskyboxes)
+* [QuiltSkyboxes Interop](https://modrinth.com/mod/Quiltskyboxes-interop)
 * [Iris Shaders](https://modrinth.com/mod/iris)
 * [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 * [OptiGUI](https://modrinth.com/mod/optigui)
 * [Puzzle](https://modrinth.com/mod/puzzle)
 
 ### UI Mod
-* [Blur](https://modrinth.com/mod/blur-fabric)
+* [Blur](https://modrinth.com/mod/blur-Quilt)
 * [Disable Custom Worlds Advice](https://modrinth.com/mod/dcwa)
 * [Disable Insecure Chat Toast](https://modrinth.com/mod/disableinsecurechattoast)
 * [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)
 
 ### Library/Dependency Mods
-* [Cloth Config API](https://modrinth.com/mod/cloth-config)
-* [Fabric API](https://modrinth.com/mod/fabric-api)
-* [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+* [Quilt Standard Libraries](https://modrinth.com/mod/qsl)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 
 ## Incompatible Mods
@@ -93,12 +92,17 @@ These mods are incompatible at the moment.
 ### Optimization
 * [Enhanced Block Entities](https://modrinth.com/mod/ebe)
 
+### Utility
+* [Zoomify](https://modrinth.com/mod/zoomify)
+
 ### Compatibility Mod
 * [Animatica](https://modrinth.com/mod/animatica)
-* [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 * [Colormatic](https://modrinth.com/mod/colormatic)
 * [Continuity](https://modrinth.com/mod/continuity)
 * [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass)
+
+### Library/Dependency Mods
+* [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl)
 
 ### Note
 By using this modpack, you agree to the following:
@@ -107,4 +111,4 @@ By using this modpack, you agree to the following:
 * For your safety and privacy concerns, our modpack includes 'No Chat Report' mod to disable chat reporting. Please note you may not join some of servers with chat signing enforced. In that case, please contact the server owner to disable chat signing enforced setting.
 * Due to EULA related issues, cape system is not included on this modpack, and never will.
 * Due to copyright concerns, resource packs and shader packs are not included on our modpack. You need to install them manually.
-* You may fork and remix this project. However to prevent any confusion, please refrain from using our 'Kosmos' or 'Steria' name and logo on your remix modpack.
+* You may freely fork and remix this project. However to prevent any confusion, please refrain from using our 'Kosmos' or 'Steria' name and logo on your fork and remix.
