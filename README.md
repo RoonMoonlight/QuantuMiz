@@ -75,6 +75,7 @@ Since it is Quilt based, you are free to add mods you wish to use. However some 
 * [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 * [OptiGUI](https://modrinth.com/mod/optigui)
 * [Puzzle](https://modrinth.com/mod/puzzle)
+* [Zoomify](https://modrinth.com/mod/zoomify)
 
 ### UI Mod
 * [Blur](https://modrinth.com/mod/blur-Quilt)
@@ -84,6 +85,7 @@ Since it is Quilt based, you are free to add mods you wish to use. However some 
 
 ### Library/Dependency Mods
 * [Quilt Standard Libraries](https://modrinth.com/mod/qsl)
+* [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 
 ## Incompatible Mods
@@ -92,17 +94,11 @@ These mods are incompatible at the moment.
 ### Optimization
 * [Enhanced Block Entities](https://modrinth.com/mod/ebe)
 
-### Utility
-* [Zoomify](https://modrinth.com/mod/zoomify)
-
 ### Compatibility Mod
 * [Animatica](https://modrinth.com/mod/animatica)
 * [Colormatic](https://modrinth.com/mod/colormatic)
 * [Continuity](https://modrinth.com/mod/continuity)
 * [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass)
-
-### Library/Dependency Mods
-* [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl)
 
 ### Note
 By using this modpack, you agree to the following:
