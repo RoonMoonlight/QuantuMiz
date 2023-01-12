@@ -14,16 +14,16 @@ Also check out our main project [Kosmos](https://github.com/MysticMoonlight/Kosm
 
 ## Dependencies
 * [Minecraft: Java Edition](https://minecraft.net)
-* [Quilt](https://Quiltmc.net/)
+* [Quilt](https://quiltmc.org/en/)
 
 ## Changelog
 See [here](https://github.com/MysticMoonlight/Steria/releases).
 
 ## Features
-* Based on Quilt
+* Based on Quilt with Fabric mod compatibility
 * Focused on optimizing the vanilla client - No pvp feature additions are included
 * Huge optimization has been made, compared with Vanilla and Forge+OptiFine
-* Most features from OptiFine are now compatible
+* Most features from OptiFine are compatible
 * Privacy focused
 * Community-made project
 * Modrinth support!
@@ -48,7 +48,7 @@ Since it is Quilt based, you are free to add mods you wish to use. However some 
 * [LazyDFU](https://modrinth.com/mod/lazydfu)
 * [Lithium](https://modrinth.com/mod/lithium)
 * [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix)
-* [Smooth Boot](https://modrinth.com/mod/smoothboot-Quilt)
+* [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)
 * [Starlight](https://modrinth.com/mod/starlight)
 * [Sodium](https://modrinth.com/mod/sodium)
 
@@ -65,6 +65,7 @@ Since it is Quilt based, you are free to add mods you wish to use. However some 
 * [Zoomify](https://modrinth.com/mod/zoomify)
 
 ### Compatibility Mod
+* [Animatica](https://modrinth.com/mod/animatica)
 * [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 * [Cull Less Leaves](https://modrinth.com/mod/cull-less-leaves)
 * [Custom Entity Models (CEM)](https://modrinth.com/mod/cem)
@@ -75,15 +76,17 @@ Since it is Quilt based, you are free to add mods you wish to use. However some 
 * [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 * [OptiGUI](https://modrinth.com/mod/optigui)
 * [Puzzle](https://modrinth.com/mod/puzzle)
+* [Zoomify](https://modrinth.com/mod/zoomify)
 
 ### UI Mod
-* [Blur](https://modrinth.com/mod/blur-Quilt)
+* [Blur](https://modrinth.com/mod/blur-fabric)
 * [Disable Custom Worlds Advice](https://modrinth.com/mod/dcwa)
 * [Disable Insecure Chat Toast](https://modrinth.com/mod/disableinsecurechattoast)
 * [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)
 
 ### Library/Dependency Mods
 * [Quilt Standard Libraries](https://modrinth.com/mod/qsl)
+* [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 
 ## Incompatible Mods
@@ -92,21 +95,14 @@ These mods are incompatible at the moment.
 ### Optimization
 * [Enhanced Block Entities](https://modrinth.com/mod/ebe)
 
-### Utility
-* [Zoomify](https://modrinth.com/mod/zoomify)
-
 ### Compatibility Mod
-* [Animatica](https://modrinth.com/mod/animatica)
 * [Colormatic](https://modrinth.com/mod/colormatic)
 * [Continuity](https://modrinth.com/mod/continuity)
 * [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass)
 
-### Library/Dependency Mods
-* [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl)
-
 ### Note
 By using this modpack, you agree to the following:
-* Our modpacks are designed to comply with most community server rules in mind. Please add/remove mods at your own risk. By installing this modpack, you agree that Mystic Moonlight, mod authors and Mojang Studios are NOT responsible for any bans or suspension from community server from modifying the list of mods.
+* Our modpacks are designed to comply with most community server rules in mind. Please add/remove mods and features at your own risk. By installing this modpack, you agree that Mystic Moonlight, mod authors and Mojang Studios are NOT responsible for any bans or suspension from community server from modifying the list of mods.
 * This modpack is using Starlight for chunk optimization. Due to nature of the mod, disabling will cause slower loading of the world, and it is safe to ignore them.
 * For your safety and privacy concerns, our modpack includes 'No Chat Report' mod to disable chat reporting. Please note you may not join some of servers with chat signing enforced. In that case, please contact the server owner to disable chat signing enforced setting.
 * Due to EULA related issues, cape system is not included on this modpack, and never will.
