@@ -30,6 +30,8 @@ Everything featured on this modpack are configurable via Mod Menu.
 * Zoom
 
 ## Mod List
+For mod list of QuiltMiz Fabric Edition, [see here](https://github.com/MysticMoonlight/QuiltMiz/blob/main/FE_MODLIST.md).
+
 ### Optimization
 * [FastQuit](https://modrinth.com/mod/fastquit)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
