@@ -61,8 +61,8 @@ For mod list of QuiltMiz Fabric Edition, [see here](https://github.com/MysticMoo
 * [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 * [Custom Entity Models (CEM)](https://modrinth.com/mod/cem)
 * [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
-* [QuiltSkyboxes](https://modrinth.com/mod/Quiltskyboxes)
-* [QuiltSkyboxes Interop](https://modrinth.com/mod/Quiltskyboxes-interop)
+* [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes)
+* [FabricSkyboxes Interop](https://modrinth.com/mod/fabricskyboxes-interop)
 * [Iris Shaders](https://modrinth.com/mod/iris)
 * [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 * [More Culling](https://modrinth.com/mod/moreculling)
@@ -84,7 +84,6 @@ For mod list of QuiltMiz Fabric Edition, [see here](https://github.com/MysticMoo
 These mods exists until there is alternatives, and can be removed at any time if we find proper alternatives.
 
 * [Cloth Config API](https://modrinth.com/mod/cloth-config)
-* [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr)
 
 ## Incompatible Mods
 These mods are incompatible at the moment.

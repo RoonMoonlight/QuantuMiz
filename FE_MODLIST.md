@@ -28,8 +28,8 @@
 * [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 * [Custom Entity Models (CEM)](https://modrinth.com/mod/cem)
 * [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
-* [QuiltSkyboxes](https://modrinth.com/mod/Quiltskyboxes)
-* [QuiltSkyboxes Interop](https://modrinth.com/mod/Quiltskyboxes-interop)
+* [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes)
+* [FabricSkyboxes Interop](https://modrinth.com/mod/fabricskyboxes-interop)
 * [Iris Shaders](https://modrinth.com/mod/iris)
 * [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 * [More Culling](https://modrinth.com/mod/moreculling)
@@ -51,7 +51,6 @@
 These mods exists until there is alternatives, and can be removed at any time if we find proper alternatives.
 
 * [Cloth Config API](https://modrinth.com/mod/cloth-config)
-* [Your Options Shall Be Respected (YOSBR)](https://modrinth.com/mod/yosbr)
 
 ## Incompatible Mods
 These mods are incompatible at the moment.
@@ -59,4 +58,4 @@ These mods are incompatible at the moment.
 ### Compatibility Mod
 * [Colormatic](https://modrinth.com/mod/colormatic)
 * [Continuity](https://modrinth.com/mod/continuity)
-* [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass)
+* [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass) ([Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass) is available for temporary solution)
