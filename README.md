@@ -30,10 +30,13 @@ Everything featured on this modpack are configurable via Mod Menu.
 * Zoom
 
 ## Mod List
+For mod list of QuiltMiz Fabric Edition, [see here](https://github.com/MysticMoonlight/QuiltMiz/blob/main/FE_MODLIST.md).
+
 ### Optimization
 * [FastQuit](https://modrinth.com/mod/fastquit)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
 * [Hold That Chunk](https://modrinth.com/mod/hold-that-chunk)
+* [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 * [Indium](https://www.modrinth.com/mod/indium/)
 * [LazyDFU](https://modrinth.com/mod/lazydfu)
 * [Lithium](https://modrinth.com/mod/lithium)
@@ -58,8 +61,8 @@ Everything featured on this modpack are configurable via Mod Menu.
 * [CIT Resewn](https://modrinth.com/mod/cit-resewn)
 * [Custom Entity Models (CEM)](https://modrinth.com/mod/cem)
 * [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
-* [QuiltSkyboxes](https://modrinth.com/mod/Quiltskyboxes)
-* [QuiltSkyboxes Interop](https://modrinth.com/mod/Quiltskyboxes-interop)
+* [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes)
+* [FabricSkyboxes Interop](https://modrinth.com/mod/fabricskyboxes-interop)
 * [Iris Shaders](https://modrinth.com/mod/iris)
 * [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 * [More Culling](https://modrinth.com/mod/moreculling)
@@ -77,11 +80,13 @@ Everything featured on this modpack are configurable via Mod Menu.
 * [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
 
+### Temporary Mod
+These mods exists until there is alternatives, and can be removed at any time if we find proper alternatives.
+
+* [Cloth Config API](https://modrinth.com/mod/cloth-config)
+
 ## Incompatible Mods
 These mods are incompatible at the moment.
-
-### Optimization
-* [Enhanced Block Entities](https://modrinth.com/mod/ebe)
 
 ### Compatibility Mod
 * [Colormatic](https://modrinth.com/mod/colormatic)
