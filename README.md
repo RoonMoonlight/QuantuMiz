@@ -68,7 +68,6 @@ For mod list of QuiltMiz Fabric Edition, [see here](https://github.com/MysticMoo
 * [More Culling](https://modrinth.com/mod/moreculling)
 * [OptiGUI](https://modrinth.com/mod/optigui)
 * [Puzzle](https://modrinth.com/mod/puzzle)
-* [Zoomify](https://modrinth.com/mod/zoomify)
 
 ### UI Mod
 * [Disable Custom Worlds Advice](https://modrinth.com/mod/dcwa)
