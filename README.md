@@ -67,13 +67,11 @@ For mod list of QuiltMiz Fabric Edition, [see here](https://github.com/MysticMoo
 * [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 * [More Culling](https://modrinth.com/mod/moreculling)
 * [OptiGUI](https://modrinth.com/mod/optigui)
-* [Puzzle](https://modrinth.com/mod/puzzle)
 * [Zoomify](https://modrinth.com/mod/zoomify)
 
 ### UI Mod
 * [Disable Custom Worlds Advice](https://modrinth.com/mod/dcwa)
-* [Disable Insecure Chat Toast](https://modrinth.com/mod/disableinsecurechattoast)
-* [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)
+* [Disable Insecure Chat Toast](https://modrinth.com/mod/)
 
 ### Library/Dependency Mods
 * [CompleteConfig](https://modrinth.com/mod/completeconfig)
