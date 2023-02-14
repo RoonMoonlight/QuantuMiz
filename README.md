@@ -76,6 +76,7 @@ For mod list of QuiltMiz Fabric Edition, [see here](https://github.com/MysticMoo
 * [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)
 
 ### Library/Dependency Mods
+* [CompleteConfig](https://modrinth.com/mod/completeconfig)
 * [Quilt Standard Libraries](https://modrinth.com/mod/qsl)
 * [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl)
 * [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
