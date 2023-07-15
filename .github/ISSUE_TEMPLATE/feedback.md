@@ -1,8 +1,8 @@
 ---
 name: Feedback
 about: Suggest an idea for our project
-title: '[Feedback] '
-labels: 'Kind: Enhancement'
+title: ''
+labels: 'enhancement'
 assignees: ''
 
 ---
