@@ -1,104 +1,61 @@
-# DISCLAIMER
-Issue tracker for QuiltMiz is now handled [here](https://github.com/MysticMoonlight/Kosmos/issues) with main Kosmos project. Also, the wiki page for QuiltMiz can be found [here](https://github.com/MysticMoonlight/Kosmos/wiki) too.
-
-# QuiltMiz - The community-made alternative modpack for Minecraft
-QuiltMiz is the sister project of Kosmos, the community-made Minecraft: Java Edition modpack focused on optimization to be proper alternative to OptiFine mod.
-
-Also check out our main project [Kosmos](https://github.com/MysticMoonlight/Kosmos).
+# QuantuMiz
+QuantuMiz is the optimization project for Minecraft: Java Edition which follows Keep It Simple Stupid Principles while keeping the essential features intact.
 
 ## Dependencies
 * [Minecraft: Java Edition](https://minecraft.net)
-* [Quilt](https://quiltmc.org/en/)
+* [Fabric](https://fabricmc.net/)
 
 ## Changelog
-See [here](https://github.com/MysticMoonlight/QuiltMiz/releases).
+See [here](https://codeberg.org/MysticMoonlight/QuantuMiz/releases).
 
 ## Features
-* Based on Quilt with Fabric mod compatibility
-* Aims to optimize the vanilla client like, what OptiFine does
+* Cleaned up unnecessary features with the exception of widely used feature, such as Shader, Connected Textures and more
 * Huge optimization has been made, and have better performance compared with Vanilla/Forge + OptiFine
-* Most features from OptiFine are compatible
 * Privacy focused
 * Community-made project
-* Modrinth support
 
 ## List of Mod features
 Everything featured on this modpack are configurable via Mod Menu.
-* Huge Optimizations
-* (Partial) OptiFine Compatibility
+* Optimizations
 * Shaders
-* Zoom
+* Connected Textures
 
 ## Mod List
-For mod list of QuiltMiz Fabric Edition, [see here](https://github.com/MysticMoonlight/QuiltMiz/blob/main/FE_MODLIST.md).
-
-### Optimization
+* [Borderless Mining](https://modrinth.com/mod/borderless-mining)
+* [Chat Reporting Helper](https://modrinth.com/resourcepack/chat-reporting-helper)
+* [Cloth Config API](https://modrinth.com/mod/cloth-config)
+* [Continuity](https://modrinth.com/mod/continuity)
+* [EntityCulling](https://modrinth.com/mod/entityculling)
+* [Exordium](https://modrinth.com/mod/exordium)
+* [Fabric API](https://modrinth.com/mod/fabric-api)
 * [FastQuit](https://modrinth.com/mod/fastquit)
+* [Fastload](https://modrinth.com/mod/fastload)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
 * [Hold That Chunk](https://modrinth.com/mod/hold-that-chunk)
 * [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
-* [Indium](https://www.modrinth.com/mod/indium/)
-* [LazyDFU](https://modrinth.com/mod/lazydfu)
-* [Lithium](https://modrinth.com/mod/lithium)
-* [MemoryLeakFix](https://modrinth.com/mod/memoryleakfix)
-* [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)
-* [Starlight](https://modrinth.com/mod/starlight)
-* [Sodium](https://modrinth.com/mod/sodium)
-
-### Utility
-* [Debugify](https://modrinth.com/mod/debugify)
+* [Indium](https://modrinth.com/mod/indium)
+* [Iris Shaders](https://modrinth.com/mod/iris)
 * [Language Reload](https://modrinth.com/mod/language-reload)
-* [Mixin Conflict Helper](https://modrinth.com/mod/mixin-conflict-helper)
+* [Lithium](https://modrinth.com/mod/lithium)
+* [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
 * [MixinTrace](https://modrinth.com/mod/mixintrace)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
-* [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
-* [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
-* [Sodium Extra](https://modrinth.com/mod/sodium-extra)
-* [Zoomify](https://modrinth.com/mod/zoomify)
-
-### Compatibility Mod
-* [Animatica](https://modrinth.com/mod/animatica)
-* [CIT Resewn](https://modrinth.com/mod/cit-resewn)
-* [Custom Entity Models (CEM)](https://modrinth.com/mod/cem)
-* [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures)
-* [FabricSkyboxes](https://modrinth.com/mod/fabricskyboxes)
-* [FabricSkyboxes Interop](https://modrinth.com/mod/fabricskyboxes-interop)
-* [Iris Shaders](https://modrinth.com/mod/iris)
-* [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
+* [Model Gap Fix](https://modrinth.com/mod/modelfix)
+* [Modpack Config Updater](https://modrinth.com/mod/modpack-config-updater)
 * [More Culling](https://modrinth.com/mod/moreculling)
-* [OptiGUI](https://modrinth.com/mod/optigui)
-* [Zoomify](https://modrinth.com/mod/zoomify)
+* [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+* [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)
+* [Sodium](https://modrinth.com/mod/sodium)
+* [Very Many Players](https://modrinth.com/mod/vmp-fabric)
 
-### UI Mod
-* [Disable Custom Worlds Advice](https://modrinth.com/mod/dcwa)
-* [Disable Insecure Chat Toast](https://modrinth.com/mod/)
+## Special Thanks
+* [Fabulously Optimized Community](https://discord.gg/fabulously-optimized-859124104644788234) for references of mod configs, status and assistance
+* [HyperSoop](https://modrinth.com/user/HyperSoop) for reference of how Simply Optimized optimization works
+* And you guys!
 
-### Library/Dependency Mods
-* [CompleteConfig](https://modrinth.com/mod/completeconfig)
-* [Quilt Standard Libraries](https://modrinth.com/mod/qsl)
-* [Quilt Kotlin Libraries](https://modrinth.com/mod/qkl)
-* [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
-
-### Temporary Mod
-These mods exists until there is alternatives, and can be removed at any time if we find proper alternatives.
-
-* [Cloth Config API](https://modrinth.com/mod/cloth-config)
-
-## Incompatible Mods
-These mods are incompatible at the moment.
-
-### Compatibility Mod
-* [Colormatic](https://modrinth.com/mod/colormatic)
-* [Continuity](https://modrinth.com/mod/continuity)
-* [LambdaBetterGrass](https://modrinth.com/mod/lambdabettergrass)
-
-### Note
+## Note
 By using this modpack, you agree to the following:
-* Our modpacks are designed to comply with most community server rules in mind. Please add/remove mods and features at your own risk. By installing this modpack, you agree that Mystic Moonlight, mod authors and Mojang Studios are NOT responsible for any bans or suspension from community server from modifying the list of mods.
-* This modpack is using Starlight for chunk optimization. Due to nature of the mod, disabling will cause slower loading of the world, and it is safe to ignore them.
-* For your safety and privacy concerns, our modpack includes 'No Chat Report' mod to disable chat reporting. Please note you may not join some of servers with chat signing enforced. In that case, please contact the server owner to disable chat signing enforced setting.
-* Due to EULA related issues, cape system is not included on this modpack, and never will.
-* Due to copyright concerns, resource packs and shader packs are not included on our modpack. You need to install them manually.
-* You may freely fork and remix this project. However to prevent any confusion, please refrain from using our 'Kosmos' or 'QuiltMiz' name and logo on your fork and remix.
-
-Quilt, the Quilt logo are trademarks and/or registered trademarks of Quilt Project.
+* Our modpacks are designed to comply with most community server rules in mind. Please add/remove, enable mods and features at your own risk. By installing this modpack, you agree that Mystic Moonlight, mod authors and Mojang Studios are NOT responsible for any bans or suspension from community server from modifying the list of mods.
+* Our project is ONLY distributed on Codeberg and Modrinth. Please refrain from downloading from other sources as they might include malware and they are not distributed by myself.
+* For your safety and privacy concerns, our modpack includes 'No Chat Report' mod to disable chat reporting. Please note you may not join some of servers with chat signing enforced. In that case, please contact the server owner to disable chat signing enforced setting by providing reasonable explanation. If you are confused what does it do, try enabling the 'Chat Reporting Helper' on Settings -> Resource Packs.
+* You may freely fork and remix this project. However to prevent any confusion, please refrain from using our 'Kosmos' or 'QuantuMiz' name and logo on your fork and remix.
