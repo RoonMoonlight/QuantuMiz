@@ -41,12 +41,12 @@ Everything featured on this modpack are configurable via Mod Menu.
 * [MixinTrace](https://modrinth.com/mod/mixintrace)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
 * [Model Gap Fix](https://modrinth.com/mod/modelfix)
+* [ModernFix](https://modrinth.com/mod/modernfix)
 * [Modpack Config Updater](https://modrinth.com/mod/modpack-config-updater)
 * [More Culling](https://modrinth.com/mod/moreculling)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 * [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)
 * [Sodium](https://modrinth.com/mod/sodium)
-* [Very Many Players](https://modrinth.com/mod/vmp-fabric)
 
 ## Special Thanks
 * [Fabulously Optimized Community](https://discord.gg/fabulously-optimized-859124104644788234) for references of mod configs, status and assistance
