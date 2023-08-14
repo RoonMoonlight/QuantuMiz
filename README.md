@@ -48,15 +48,16 @@ Everything featured on this modpack are configurable via Mod Menu.
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
 * [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)
 * [Sodium](https://modrinth.com/mod/sodium)
+* [ThreadTweak](https://modrinth.com/mod/threadtweak)
 
 ## Special Thanks
-* [Fabulously Optimized Community](https://discord.gg/fabulously-optimized-859124104644788234) for references of mod configs, status and assistance
-* [HyperSoop](https://modrinth.com/user/HyperSoop) for reference of how Simply Optimized optimization works
+* [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized) for references of mod configs, status and assistance
+* [Simply Optimized](https://modrinth.com/modpack/sop) for references of mod configs, mods status and assistance
 * And you guys!
 
 ## Note
 By using this modpack, you agree to the following:
 * Our modpacks are designed to comply with most community server rules in mind. Please add/remove, enable mods and features at your own risk. By installing this modpack, you agree that Mystic Moonlight, mod authors and Mojang Studios are NOT responsible for any bans or suspension from community server from modifying the list of mods.
-* Our project is ONLY distributed on Codeberg and Modrinth. Please refrain from downloading from other sources as they might include malware and they are not distributed by myself.
+* Our project is ONLY distributed on RoonMoonlight GitHub repository and Modrinth. Please refrain from downloading from other sources as they might include malware and they are not distributed by myself.
 * For your safety and privacy concerns, our modpack includes 'No Chat Report' mod to disable chat reporting. Please note you may not join some of servers with chat signing enforced. In that case, please contact the server owner to disable chat signing enforced setting by providing reasonable explanation. If you are confused what does it do, try enabling the 'Chat Reporting Helper' on Settings -> Resource Packs.
-* You may freely fork and remix this project. However to prevent any confusion, please refrain from using our 'Kosmos' or 'QuantuMiz' name and logo on your fork and remix.
+* You may freely fork and remix this project. However to prevent any confusion, please refrain from using our 'QuantuMiz' name and logo on your fork and remix.
