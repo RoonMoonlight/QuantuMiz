@@ -6,7 +6,7 @@ QuantuMiz is the optimization project for Minecraft: Java Edition which follows 
 * [Fabric](https://fabricmc.net/)
 
 ## Changelog
-See [here](https://codeberg.org/MysticMoonlight/QuantuMiz/releases).
+See [here](https://codeberg.org/RoonMoonlight/QuantuMiz/releases).
 
 ## Features
 * Cleaned up unnecessary features with the exception of widely used feature, such as Shader, Connected Textures and more
