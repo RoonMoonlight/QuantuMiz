@@ -1,5 +1,0 @@
-autoJump:false
-fullscreen:true
-resourcePacks:["vanilla","file/Chat Reporting Helper.zip","continuity:default","continuity:glass_pane_culling_fix","fabric"]
-telemetryOptInExtra:false
-onboardAccessibility:false
