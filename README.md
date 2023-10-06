@@ -12,6 +12,8 @@
   </p>
 </p>
 
+---
+
 ***QuantuMiz*** is the Vanilla-friendly optimization modpack which provides best Vanilla Minecraft experience by optimizing the game, with the power of 100% FOSS mods.
 
 ## Changelog
