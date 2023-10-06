@@ -1,8 +1,8 @@
 <!-- TITLE -->
 <p align="center">
-  <h1>QuantuMiz</h1>
+  <b>QuantuMiz</b>
   <p align="center">
-    <b>Your Vanilla-friendly optimization modpack, now powered with 100% FOSS mods!</b>
+    Your Vanilla-friendly optimization modpack, now powered with 100% FOSS mods!
     <br />
     <a href="https://modrinth.com/modpack/quantumiz/versions">Download</a>
     ·
