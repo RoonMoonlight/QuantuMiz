@@ -1,5 +1,6 @@
 version:3578
 autoJump:false
+enableVsync:false
 snooperEnabled:false
 simulationDistance:6
 maxFps:260
