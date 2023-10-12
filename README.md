@@ -26,34 +26,29 @@ See [here](https://github.com/RoonMoonlight/QuantuMiz/releases).
 * 100% community-made, free and open-source! All mod's source code are available on their respective GitHub page.
 
 ## List of Mods
-Yet to be finalized, please check back later!
-<!---
-* [Borderless Mining](https://modrinth.com/mod/borderless-mining)
-* [Chat Reporting Helper](https://modrinth.com/resourcepack/chat-reporting-helper)
+Some of mods featured here can be configured on Mod Menu.
+
 * [Cloth Config API](https://modrinth.com/mod/cloth-config)
 * [Continuity](https://modrinth.com/mod/continuity)
-* [EntityCulling](https://modrinth.com/mod/entityculling)
 * [Fabric API](https://modrinth.com/mod/fabric-api)
 * [FastQuit](https://modrinth.com/mod/fastquit)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
-* [Hold That Chunk](https://modrinth.com/mod/hold-that-chunk)
 * [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 * [Indium](https://modrinth.com/mod/indium)
 * [Iris Shaders](https://modrinth.com/mod/iris)
 * [Language Reload](https://modrinth.com/mod/language-reload)
 * [Lithium](https://modrinth.com/mod/lithium)
-* [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
 * [MixinTrace](https://modrinth.com/mod/mixintrace)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
 * [Model Gap Fix](https://modrinth.com/mod/modelfix)
 * [ModernFix](https://modrinth.com/mod/modernfix)
 * [More Culling](https://modrinth.com/mod/moreculling)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+* [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 * [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)
 * [Sodium](https://modrinth.com/mod/sodium)
 * [ThreadTweak](https://modrinth.com/mod/threadtweak)
 * [Your Options Shall Be Respected](https://modrinth.com/mod/yosbr)
---->
 
 ## Disclaimer!
 By using this modpack, you agree to the following:
