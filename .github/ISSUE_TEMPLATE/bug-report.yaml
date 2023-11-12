@@ -9,9 +9,9 @@ body:
 - type: markdown
   attributes:
     value: |
-      Thank you and welcome to Issue Tracker 2.0, the new way to report the issue! Since Roon has lack of knowledge about yaml, there might be bugs or issues you might experience. Please report them if you find any mistakes I made! For uploading screenshots or videos, please post it next to main post from comment section so I can check what happened. Since this feature on GitHub is currently on beta, the things may not work as intended and therefore will be marked as Beta feature. You can also use Legacy form if things are not working as intended.
+      Thank you and welcome to Issue Tracker 2.0, the new way to report the issue! Since Roon has lack of knowledge about yaml, there might be bugs or issues you might experience. Please report them if you find any mistakes I made! Since this feature on GitHub is currently on beta, the things may not work as intended and therefore will be marked as Beta feature. You can also use Legacy form if things are not working as intended.
       
-      Here is things to remember before creating issue:
+      Here are things to remember before creating issue:
       * Please use [mc.logs](https://mclo.gs) for crash report or your full logs. Any attachment which includes sensitive information will be immediately removed.
       * Any modification of mods list (excluding your own resource packs/shader packs), including your own addition/removal of mods will be unsupported and will be immediately rejected. Please ensure nothing was changed on our list of mods.
       * We do NOT accept any issues that are from any other modpack(s), including fork/reuploads of this modpack. Make sure you are using official release of QuantuMiz/QuantuMiz CE before reporting.
