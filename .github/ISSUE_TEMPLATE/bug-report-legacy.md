@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Create a bug report to help us improve
+name: Bug report (Legacy)
+about: Create a bug report to help us improve. Use this when Issue Tracker 2.0 are not working as intended.
 title: ''
 labels: 'bug'
 assignees: ''
