@@ -7,8 +7,13 @@ assignees: ''
 
 ---
 
-<!--- Note: Please use [mc.logs](https://mclo.gs) for crash report or your full logs. Any attachment which includes sensitive information will be immediately removed. --->
-<!--- Note #2: Any modification of mods list (Except your own Resource Packs and Shader Packs), including your own addition/removal of mods will be unsupported and will be immediately rejected. Please ensure nothing was changed on our list of mods. --->
+<!---
+Things to remember:
+
+* Please use [mc.logs](https://mclo.gs) for crash report or your full logs. Any attachment which includes sensitive information will be immediately removed.
+* Any modification of mods list (excluding your own resource packs/shader packs), including your own addition/removal of mods will be unsupported and will be immediately rejected. Please ensure nothing was changed on our list of mods.
+* We do NOT accept any issues that are from any other modpack(s), including fork/reuploads of this modpack. Make sure you are using official release of QuantuMiz/QuantuMiz CE before reporting.
+--->
 
 **Describe the bug**
 
