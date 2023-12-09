@@ -1,12 +1,14 @@
-version:3578
+version:3700
 autoJump:false
 enableVsync:false
 snooperEnabled:false
 simulationDistance:6
 maxFps:260
 resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default"]
-incompatibleResourcePacks:[]
+incompatibleResourcePacks:["continuity:default","continuity:glass_pane_culling_fix"]
+telemetryOptInExtra:false
 tutorialStep:none
+skipMultiplayerWarning:true
 joinedFirstServer:true
 telemetryOptInExtra:false
 onboardAccessibility:false
