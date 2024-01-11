@@ -22,21 +22,21 @@ See [here](https://github.com/RoonMoonlight/QuantuMiz/releases).
 ## Features
 * Focused on optimizing the game as many as possible, while making the game stable and vanilla-friendly!
 * Designed for content creators and vanilla gamers, by keeping 100% close to the vanilla while optimizing the game!
+* Partial compatibility of OptiFine features such as Connected Textures and Shaders!
 * Unlike other modpacks, this modpack is designed with Fair-play in mind for most of community servers, all mods present are cherry-picked carefully to comply with most of server rules, including popular server such as [Hypixel](https://hypixel.net).
 * 100% community-made, free and open-source! All mod's source code are available on their respective GitHub page.
 
 ## List of Mods
 Some of mods featured here can be configured on Mod Menu.
 
+* [Better Sodium Video Settings Button](https://www.curseforge.com/minecraft/mc-mods/better-sodium-video-settings-button)
 * [Cloth Config API](https://modrinth.com/mod/cloth-config)
 * [Continuity](https://modrinth.com/mod/continuity)
 * [Fabric API](https://modrinth.com/mod/fabric-api)
-* [FastQuit](https://modrinth.com/mod/fastquit)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
 * [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 * [Indium](https://modrinth.com/mod/indium)
 * [Iris Shaders](https://modrinth.com/mod/iris)
-* [Language Reload](https://modrinth.com/mod/language-reload)
 * [Lithium](https://modrinth.com/mod/lithium)
 * [MixinTrace](https://modrinth.com/mod/mixintrace)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
@@ -44,8 +44,6 @@ Some of mods featured here can be configured on Mod Menu.
 * [ModernFix](https://modrinth.com/mod/modernfix)
 * [More Culling](https://modrinth.com/mod/moreculling)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
-* [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
-* [Smooth Boot](https://modrinth.com/mod/smoothboot-fabric)
 * [Sodium](https://modrinth.com/mod/sodium)
 * [ThreadTweak](https://modrinth.com/mod/threadtweak)
 * [Your Options Shall Be Respected](https://modrinth.com/mod/yosbr)
