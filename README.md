@@ -29,7 +29,6 @@ See [here](https://github.com/RoonMoonlight/QuantuMiz/releases).
 ## List of Mods
 Some of mods featured here can be configured on Mod Menu.
 
-* [Better Sodium Video Settings Button](https://www.curseforge.com/minecraft/mc-mods/better-sodium-video-settings-button)
 * [Cloth Config API](https://modrinth.com/mod/cloth-config)
 * [Continuity](https://modrinth.com/mod/continuity)
 * [Fabric API](https://modrinth.com/mod/fabric-api)
@@ -44,6 +43,7 @@ Some of mods featured here can be configured on Mod Menu.
 * [ModernFix](https://modrinth.com/mod/modernfix)
 * [More Culling](https://modrinth.com/mod/moreculling)
 * [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+* [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 * [Sodium](https://modrinth.com/mod/sodium)
 * [ThreadTweak](https://modrinth.com/mod/threadtweak)
 * [Your Options Shall Be Respected](https://modrinth.com/mod/yosbr)
