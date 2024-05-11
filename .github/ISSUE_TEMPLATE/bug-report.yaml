@@ -5,19 +5,17 @@ labels: ["bug"]
 body:
 - type: markdown
   attributes:
-    value: "# QuantuMiz Issue Tracker 2.0 (Beta)"
+    value: "# QuantuMiz Issue Tracker"
 - type: markdown
   attributes:
     value: |
-      Thank you and welcome to Issue Tracker 2.0, the new way to report the issue! Since Roon has lack of knowledge about yaml, there might be bugs or issues you might experience. Please report them if you find any mistakes I made! Since this feature on GitHub is currently on beta, the things may not work as intended and therefore will be marked as Beta feature. You can also use Legacy form if things are not working as intended.
-      
-      Here are things to remember before creating issue:
+      Welcome to Issue Tracker! Here are things to remember before creating issue:
       * Please use [mc.logs](https://mclo.gs) for crash report or your full logs. Any attachment which includes sensitive information will be immediately removed.
       * Any modification of mods list (excluding your own resource packs/shader packs), including your own addition/removal of mods will be unsupported and will be immediately rejected. Please ensure nothing was changed on our list of mods.
       * We do NOT accept any issues that are from any other modpack(s), including fork/reuploads of this modpack. Make sure you are using official release of QuantuMiz/QuantuMiz CE before reporting.
 - type: input
-  attributes:
     label: Describe the bug
+  attributes:
     description: "A clear and concise description of what the bug is."
   validations:
     required: true
@@ -47,25 +45,25 @@ body:
 - type: input
   attributes:
     label: Type of the modpack
-    placeholder: "e.g. QuantuMiz/QuantuMiz: Competitive Edition"
+    placeholder: "e.g. QuantuMiz/QuantuMiz CE/QuantuMiz EX"
   validations:
     required: true
 - type: input
   attributes:
     label: Operating System Name/Version
-    placeholder: "e.g. Windows 11 23H2/macOS 14/Linux (Fedora Kinoite 39)/etc."
+    placeholder: "e.g. Windows 11 24H2/macOS 15/Linux (Example: Ubuntu 24.04, Fedora 40)/etc."
   validations:
     required: true
 - type: input
   attributes:
     label: Modpack Version
-    placeholder: "e.g.: QuantuMiz 2.1.5b"
+    placeholder: "e.g.: QuantuMiz 2.3.0"
   validations:
     required: true
 - type: input
   attributes:
     label: Minecraft Version
-    placeholder: "e.g. 1.20.2"
+    placeholder: "e.g. 1.20.6"
   validations:
     required: true
 - type: input
