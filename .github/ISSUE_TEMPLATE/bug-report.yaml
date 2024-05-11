@@ -14,8 +14,8 @@ body:
       * Any modification of mods list (excluding your own resource packs/shader packs), including your own addition/removal of mods will be unsupported and will be immediately rejected. Please ensure nothing was changed on our list of mods.
       * We do NOT accept any issues that are from any other modpack(s), including fork/reuploads of this modpack. Make sure you are using official release of QuantuMiz/QuantuMiz CE before reporting.
 - type: input
-    label: Describe the bug
   attributes:
+    label: Describe the bug
     description: "A clear and concise description of what the bug is."
   validations:
     required: true
