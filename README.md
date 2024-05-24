@@ -29,14 +29,18 @@ See [here](https://github.com/RoonMoonlight/QuantuMiz/releases).
 ## List of Mods
 Some of mods featured here can be configured on Mod Menu.
 
+* [BadOptimizations](https://modrinth.com/mod/badoptimizations)
 * [Cloth Config API](https://modrinth.com/mod/cloth-config)
 * [Continuity](https://modrinth.com/mod/continuity)
+* [Debugify](https://modrinth.com/mod/debugify)
+* [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
 * [Fabric API](https://modrinth.com/mod/fabric-api)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
 * [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 * [Indium](https://modrinth.com/mod/indium)
-* [Iris Shaders](https://modrinth.com/mod/iris)
+* [Iris](https://modrinth.com/mod/iris)
 * [Lithium](https://modrinth.com/mod/lithium)
+* [Main Menu Credits](https://modrinth.com/mod/main-menu-credits)
 * [MixinTrace](https://modrinth.com/mod/mixintrace)
 * [Mod Menu](https://modrinth.com/mod/modmenu)
 * [Model Gap Fix](https://modrinth.com/mod/modelfix)
@@ -46,7 +50,8 @@ Some of mods featured here can be configured on Mod Menu.
 * [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 * [Sodium](https://modrinth.com/mod/sodium)
 * [ThreadTweak](https://modrinth.com/mod/threadtweak)
-* [Your Options Shall Be Respected](https://modrinth.com/mod/yosbr)
+* [YetAnotherConfigLib](https://modrinth.com/mod/yacl)
+* [YOSBR](https://modrinth.com/mod/yosbr)
 
 ## Disclaimer!
 By using this modpack, you agree to the following:
