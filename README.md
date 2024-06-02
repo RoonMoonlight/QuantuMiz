@@ -1,3 +1,6 @@
+> [!warning]
+> You are looking at 1.20.x Extended Support Release branch. Looking for the QuantuMiz 1.21? [Go back to main branch.](https://github.com/RoonMoonlight/QuantuMiz)
+
 <!-- TITLE -->
 <p align="center">
   <b>QuantuMiz</b>
