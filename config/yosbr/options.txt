@@ -1,7 +1,6 @@
-version:3839
-autoJump:false
+version:3953
 enableVsync:false
-guiScale:2
+guiScale:3
 maxFps:260
 resourcePacks:["vanilla","fabric","continuity:glass_pane_culling_fix","continuity:default"]
 simulationDistance:6
